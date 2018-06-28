@@ -1,0 +1,1 @@
+After taking such a long break from CSS and HTML to learn Javascript, I'm going to build a clone of Hacker News for practice. It's been months since I've been able to mess around with the two, so it will be a nice break. This is how you write a README! Eventually I may even incorporate Javascript...MAYBE.

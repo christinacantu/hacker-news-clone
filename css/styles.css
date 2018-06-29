@@ -1,0 +1,15 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 1em;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0px auto;
+  /* background-color: salmon; */
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}

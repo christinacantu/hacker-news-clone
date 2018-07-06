@@ -13,7 +13,7 @@ a {
   max-width: 1000px;
   height: 100vh;
   position: relative;
-  top: 8px; // should simply be margin-top
+  top: 8px;  /* should simply be margin-top */
   margin: 0px auto;
   background-color: #F6F6EF;
 }
@@ -25,7 +25,7 @@ header {
   background-color: #FA6603;
 }
 
-header img { // maybe make it more specific that it's the .logo or something
+/ header img {  /*maybe make it more specific that it's the .logo or something */
   width: 22px;
   margin: 0px 5px 0px 2px;
   border: 1px solid #FFFFFF;
@@ -50,7 +50,7 @@ header ul li {
   border-right: 1.7px solid #000000;
 }
 
-header ul li:nth-last-child(2) { // combine with below for border none
+header ul li:nth-last-child(2) { /* combine with below for border none */
   border: none;
 }
 
